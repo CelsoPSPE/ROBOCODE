@@ -1,0 +1,10 @@
+-robot.properties
+
+
+robot.description=Meu Robo Speedster
+
+robot.author= Celso Pereira Silva
+
+
+Descrição:
+O SpeedsterBot é um robô ágil e veloz, projetado para enfrentar seus oponentes com movimentos circulares constantes, evitando ataques enquanto mantém uma distância estratégica. Equipado com um canhão de alta cadência, o robô mira rapidamente no inimigo, disparando projéteis com precisão. Seu radar gira velozmente, detectando oponentes em todas as direções para uma resposta rápida às ameaças. Acelerando bruscamente e mantendo uma velocidade constante elevada, o SpeedsterBot é capaz de deslocar-se pelo campo de batalha de maneira eficiente, adaptando-se dinamicamente à situação. Este robô é uma máquina de combate versátil, combinando velocidade, agilidade e estratégia para alcançar a vitória.
