@@ -1,9 +1,11 @@
--robot.properties
+robot.properties
 
+robot.description=SpeedsterBot
 
-robot.description=Meu Robo Speedster
+robot.author=Celso Pereira Silva
 
-robot.author= Celso Pereira Silva
+Cor do robô (verde)
+color=0,255,0
 
 
 Descrição:
